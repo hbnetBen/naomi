@@ -1,0 +1,48 @@
+
+dfostdata_DATA = \
+	crapos.ui\
+	emptySensor.png\
+	failedSensor.png \
+	fingerDB.db \
+	finger_disabled.png \
+	finger_matched.png \
+	finger_unknown.png \
+	imgheader.png \
+	img_icon_error.png \
+	img_icon_sync_up.png \
+	img_icon_update.png \
+	l0.png \
+	l1.png \
+	l2.png \
+	l3.png \
+	l4.png \
+	pple.png \
+	r0.png \
+	r1.png \
+	r2.png \
+	r3.png \
+	r4.png \
+	score0.png \
+	score1.png \
+	score2.png \
+	score3.png \
+	score4.png \
+	slamdok.ppm \
+	spin_32.gif \
+	spinner.gif \
+	spinner2.gif \
+	touchedSensor.png \
+	winenroll.ui \
+	winevent.ui \
+	winevent_verify.ui \
+	winreport.ui \
+	xpple.png
+
+dfostdatadir = \
+	$(pkgdatadir)
+
+EXTRA_DIST = \
+	$(dfostdata_DATA)
+
+## File created by the gnome-build tools
+

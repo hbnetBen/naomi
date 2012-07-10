@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Type=Application
+Name=Daserfost Scanner
+Name[en_US]=Daserfost Scanner
+Comment=Biometric Fostware
+Comment[en_US]=Biometric Fostware
+Terminal=false
+Categories=Daserfost
+Icon=/opt/google/desktop/resource/gdl_large.png
+Exec=/opt/google/desktop/bin/gdlinux start
